@@ -1,4 +1,4 @@
-![Header](https://github.com/shiyananan/rsschool-cv/blob/gh-pages/img/header-img.png)
+![Header](https://raw.githubusercontent.com/shiyananan/rsschool-cv/gh-pages/img/header-img.png)
 # HELLO, MY NAME IS ANASTASIA SHIYAN  
 I am a *Full Stack Web Development Student*  
 

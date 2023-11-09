@@ -11,6 +11,7 @@ ul {
     font-family: 'Montserrat', sans-serif;
     font-size: 45px;
     text-align: center;
+    position: relative;
 }
 
 .main-subtitle {
@@ -34,4 +35,11 @@ h2 {
 
 .profile-photo {
     max-width: 300px;
+}
+
+.skills-list {
+    display: inline;
+    background-color: rgb(214, 214, 214);
+    padding-left: 10px;
+    padding-right: 10px;
 }
